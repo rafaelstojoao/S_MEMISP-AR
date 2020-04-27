@@ -1,0 +1,3 @@
+
+ pos [ 8] <(10:42:59,banana,couvekg,inhamekg,laranja,macakg,peraportuguesakg,refrigerante)>
+ pos [ 6] <(10:54:35,carvao,cerveja,linguicakg,carnebovinakg,refrigerante,chiclete)>

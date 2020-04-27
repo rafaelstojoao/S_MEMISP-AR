@@ -1,0 +1,6 @@
+
+ pos [ 2] <(b,d)(b,c)(a,e)>
+ pos [ 10] <(1,a,d,g)(c,f)(a,d)(b,d,e)(b,c)(a,e)>
+ pos [ 11] <(a,C,d,g)(c,f)(d)(1,2)(b,d)(b,c)(a,e)>
+ pos [ 8] <(a,d,g)(c,f)(d)(b,d)(b,c)(a,e)>
+ pos [ 4] <(a,b,c,d,g)(b,f)(d)>

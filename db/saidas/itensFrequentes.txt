@@ -1,0 +1,14 @@
+
+	Lista de Itens Frequentes encontrados em MDB
+
+
+ Item  [refrigerante] Suporte = 0.166667
+ Item  [arroz] Suporte = 0.166667
+ Item  [carvao] Suporte = 0.166667
+ Item  [carnebovinakg] Suporte = 0.333333
+ Item  [detergente] Suporte = 0.166667
+ Item  [linguicakg] Suporte = 0.166667
+ Item  [papelhigienico] Suporte = 0.166667
+ Item  [tomatesaladetekg] Suporte = 0.166667
+ Item  [maionese] Suporte = 0.166667
+ Fim dos itens frequentes...

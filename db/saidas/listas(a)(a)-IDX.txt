@@ -1,0 +1,4 @@
+
+ pos [ 5] <(a,d)(b,c)(a,e)>
+ pos [ 5] <(a,b,c,d)(a)(b)>
+ pos [ 7] <(b,c,d)(a,c,e)(a)>

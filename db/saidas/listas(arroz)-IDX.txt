@@ -1,0 +1,3 @@
+
+ pos [ 4] <(10:44:39,alface,alhoalhokg,arroz,azeitetradicaoextravirgem500ml)>
+ pos [ 4] <(10:58:08,acucar,alho,arroz,biscmarilanaguaesal400g,buchavegdaterra,bugborrachamultusosil4,bugborrachapressao45lbranca,cafe,detergente,farinhamandnicoval1kg,feijao,leite,leite,macbasilarinstcarne85g,macarraoinstantaneo,macarraoinstantaneo)>

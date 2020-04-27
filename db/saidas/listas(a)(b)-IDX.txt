@@ -1,0 +1,4 @@
+
+ pos [ 3] <(a,d)(b,c)(a,e)>
+ pos [ 5] <(a,c)(d)(f)(b)>
+ pos [ 6] <(a,b,c,d)(a)(b)>

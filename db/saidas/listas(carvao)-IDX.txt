@@ -1,0 +1,3 @@
+
+ pos [ 3] <(azeitonavdedizafatiada100g,baconmantabambinavkg,carvao,cebola,cenourakg,cheiroverde,cheiroverde,copocopomaistranspps300ml100)>
+ pos [ 2] <(10:54:35,carvao,cerveja,linguicakg,carnebovinakg,refrigerante,chiclete)>
