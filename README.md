@@ -1,5 +1,8 @@
 Esse projeto de mestrado foi conduzido na Universidade Federal de São Carlos, durante o período de 2013 - 2015, sob orientação da profa. Dra. Maria do Carmo Nicoletti. 
 
+A dissertação completa pode ser encontrada em: https://repositorio.ufscar.br/bitstream/handle/ufscar/8923/DissRSJ.pdf
+
+
 As publicações geradas com esse projeto foram:
 
 
